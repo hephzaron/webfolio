@@ -1,7 +1,6 @@
 export default {
-    language: ["js", "ts", "python"],
-    database: ["sqlite", "postgreSql"],
-    other: ["html", "css", "sass", "scss", "less", "stylus", "ejs", "jinja", "pug"],
-    tool: ["vscode", "nvim", "figma", "git"],
-    framework: ["react", "next", "gulp", "express", "flask", "quart"]   
+    language: ["python", "js", "cpp", "verilog"],
+    other: ["dsp", "optimization"],
+    software: ["proteus", "ltspice", "matlab", "vivado"],
+    framework: ["scikit", "pandas", "numpy", "tensorflow", "keras", "pytorch", "opencv", "pyspark", "nltk"]  
 }

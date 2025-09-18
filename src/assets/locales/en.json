@@ -7,15 +7,14 @@
     },
     "footer": {
         "description": "Power and embedded systems designer, passionate about Machine Learning",
-        "copyright": "Copyright 2025. Credits to Elias (elias.devis@protonmail.com)",
+        "copyright": "Copyright 2025. Credit to Elias (elias.devis@protonmail.com)",
         "media": "Media"
     },
     "skills": {
         "language": "Languages",
-        "database": "Databases",
         "other": "Other",
-        "tool": "Tools",
-        "framework": "Frameworks"
+        "software": "Modelling & Simulation Softwares",
+        "framework": "Machine Learning Frameworks"
     },
     "projects": {
         "chertnodes": {
