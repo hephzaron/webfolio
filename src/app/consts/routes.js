@@ -18,10 +18,5 @@ export default {
     "/404": {
         name: "404",
         element: "PageNotFound",
-    },
-    
-    // "/contacts": {
-    //     name: "contacts",
-    //     element: "Contacts",
-    // },
+    }
 };

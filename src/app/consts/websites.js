@@ -1,8 +1,8 @@
 export default {
-    discord: "discord.com/users/",
+    linkedin: "linkedin.com/in/",
     github: "github.com/",
-    figma: "figma.com/@",
-    replit: "replit.com/@",
+    kaggle: "kaggle.com/",
+    youtube: "youtube.com/@",
     stackOverflow: "stackoverflow.com/users/",
     kaggle: "kaggle.com/",
     devTo: "dev.to/",
