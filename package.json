@@ -1,28 +1,26 @@
 {
   "name": "portfolio",
-  "version": "1.2.0",
-  "main": "src/app/index.js",
-  "author": {
-    "name": "Elias",
-    "url": "https://EliasDevis.github.io"
-  },
-  "license": "MIT",
-  "devDependencies": {
-    "copy-webpack-plugin": "^11.0.0",
-    "css-loader": "^6.7.2",
-    "html-webpack-plugin": "^5.5.0",
-    "json-minimizer-webpack-plugin": "^4.0.0",
-    "mini-css-extract-plugin": "^2.7.2",
-    "sass": "^1.56.1",
-    "sass-loader": "^13.2.0",
-    "style-loader": "^3.3.1",
-    "webpack": "^5.75.0",
-    "webpack-cli": "^5.0.0",
-    "webpack-dev-server": "^4.11.1",
-    "node-sass": "^8.0.0"
-  },
+  "version": "1.0.0",
+  "description": "Written in vanilla js.",
+  "main": "webpack.config.js",
   "scripts": {
     "build": "webpack",
     "serve": "webpack serve"
+  },
+  "author": "Daramola Tobi",
+  "license": "ISC",
+  "devDependencies": {
+    "copy-webpack-plugin": "^13.0.1",
+    "css-loader": "^7.1.2",
+    "html-webpack-plugin": "^5.6.4",
+    "json-minimizer-webpack-plugin": "^5.0.1",
+    "mini-css-extract-plugin": "^2.9.4",
+    "sass": "^1.92.1",
+    "sass-embedded": "^1.92.1",
+    "sass-loader": "^16.0.5",
+    "style-loader": "^4.0.0",
+    "webpack": "^5.101.3",
+    "webpack-cli": "^6.0.1",
+    "webpack-dev-server": "^5.2.2"
   }
 }

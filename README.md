@@ -1,3 +1,5 @@
+# Credit goes to the original designer and template creator below #
+
 # My Portfolio #
 Written in vanilla js.
 
