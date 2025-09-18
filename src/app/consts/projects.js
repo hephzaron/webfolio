@@ -11,6 +11,7 @@ const projects = [
         },
         techs: ["pug", "stylus", "node"],
         hasImage: true,
+        isRecent: true
     },
     {
         id: "pixel-battle",
@@ -19,7 +20,8 @@ const projects = [
             github: "pixelate-it/pixelbattle-frontend",
         },
         techs: ["preact", "css", "pixijs", "ts"],
-        hasImage: true
+        hasImage: true,
+        isInProgress: true
     },
     {
         id: "feedrum",
@@ -29,6 +31,7 @@ const projects = [
         },
         techs: ["node", "next", "react", "zod"],
         hasImage: true,
+        isPublication: true
     },
     {
         id: "chertnodes",
@@ -37,6 +40,7 @@ const projects = [
         },
         techs: ["python", "flask", "scss"],
         hasImage: true,
+        isEmbeddedProject: true
     },
     {
         id: "protectx",
@@ -45,6 +49,7 @@ const projects = [
             figma: "1168662007492356291",
         },
         hasImage: true,
+        isPublication: true
     },
     {
         id: "khanswers",
@@ -54,6 +59,7 @@ const projects = [
             github: "/kahoot-answers",
         },
         hasImage: true,
+        isModelSimulation: true
     },
     {
         id: "kotikbot",
@@ -63,6 +69,7 @@ const projects = [
             github: "kotikbot/kotikbot.github.io",
         },
         hasImage: true,
+        isModelSimulation: true
     },
     {
         id: "portfolio",
@@ -73,6 +80,7 @@ const projects = [
             live: "eliasdevis.github.io"
         },
         hasImage: true,
+        isEmbeddedProject: true
     },
 
     {
@@ -81,7 +89,7 @@ const projects = [
         links: {
             github: "/bot-template",
         },
-        isSmall: true,
+        isMachineLearning: true
     },
     {
         id: "chesspro",
@@ -89,7 +97,7 @@ const projects = [
         links: {
             figma: "1148344443083977909",
         },
-        isSmall: true,
+        isMachineLearning: true
     },
     {
         id: "madhost",
@@ -98,6 +106,7 @@ const projects = [
             live: "madhost.pw",
         },
         hasImage: true,
+        isInProgress: true
     },
 ];
 

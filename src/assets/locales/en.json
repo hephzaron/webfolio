@@ -105,9 +105,12 @@
             }
         },
         "projects": {
-            "description": "All of my projects",
-            "decent": "decent",
-            "small": "small",
+            "description": "All of my projects and publications",
+            "recent": "recent publications and projects",
+            "publication": "publications",
+            "embeddedProjects": "embedded projects",
+            "machineLearning": "machine learning", 
+            "modelSimulation": "modelling and simulation",
             "inProgress": "unfinished"
         },
         "about": {

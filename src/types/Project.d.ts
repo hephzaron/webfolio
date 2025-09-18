@@ -8,5 +8,11 @@ export interface Project {
     techs: string[];
     hasImage?: boolean;
     isSmall?: boolean;
-    isInProgress?: boolean
+    isInProgress?: boolean;
+    isRecent ?: boolean;
+    isPublication ?: boolean;
+    isEmbeddedProject ?: boolean;
+    isMachineLearning ?: boolean;
+    isModelSimulation ?: boolean;
+    isInProgress ?: boolean;
 }
