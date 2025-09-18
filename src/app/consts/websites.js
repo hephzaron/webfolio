@@ -4,7 +4,7 @@ export default {
     figma: "figma.com/@",
     replit: "replit.com/@",
     stackOverflow: "stackoverflow.com/users/",
-    codewars: "codewars.com/users/",
+    kaggle: "kaggle.com/",
     devTo: "dev.to/",
     cssBattle: "cssbattle.dev/player/",
     codepen: "codepen.io/",
