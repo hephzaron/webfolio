@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "Written in vanilla js.",
   "main": "webpack.config.js",
+  "homepage": "https://username.github.io/webfolio",
   "scripts": {
     "build": "webpack",
     "serve": "webpack serve"
