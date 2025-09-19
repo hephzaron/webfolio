@@ -178,7 +178,7 @@ var localeHandler = __webpack_require__(788);
  * @type {import("../../types/Routes").Routes}
  */
 /* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = ({
-    "/": {
+    "/webfolio/": {
         name: "home",
         element: "Home",
     },
