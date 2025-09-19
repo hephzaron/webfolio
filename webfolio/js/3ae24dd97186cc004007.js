@@ -7,7 +7,7 @@
  * or disable the default devtool with "devtool: false".
  * If you are looking for production-ready output files, see mode: "production" (https://webpack.js.org/configuration/mode/).
  */
-(self["webpackChunkportfolio"] = self["webpackChunkportfolio"] || []).push([["src_app_views_PageNotFound_js"],{
+(self["webpackChunkwebfolio"] = self["webpackChunkwebfolio"] || []).push([["src_app_views_PageNotFound_js"],{
 
 /***/ "./src/app/views/PageNotFound.js":
 /*!***************************************!*\
@@ -15,7 +15,7 @@
   \***************************************/
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
-eval("{__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (() => {\n    return `404`;\n});\n\n\n//# sourceURL=webpack://portfolio/./src/app/views/PageNotFound.js?\n}");
+eval("{__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (() => {\n    return `404`;\n});\n\n\n//# sourceURL=webpack://webfolio/./src/app/views/PageNotFound.js?\n}");
 
 /***/ })
 
