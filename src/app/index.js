@@ -14,7 +14,7 @@ const path = window.location.pathname.replace(base, "");
 const rootId = "root";
 async function render() {
     const path = routes[window.location.pathname] ?? routes["/404"];
-    console.log(path, window.location.pathname)
+    console.log(path, routes[window.location.pathname], window.location.pathname)
 
     loadCssFile(path.name);
     startTitleAnimation(path.name);
