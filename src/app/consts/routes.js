@@ -3,7 +3,7 @@
  * @type {import("../../types/Routes").Routes}
  */
 export default {
-    "/webfolio/": {
+    "/": {
         name: "home",
         element: "Home",
     },
