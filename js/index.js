@@ -60,7 +60,7 @@ eval("{__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpa
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
 "use strict";
-eval("{__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n\n/**\n * @type {import(\"../../types/Routes\").Routes}\n */\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = ({\n    \"/\": {\n        name: \"home\",\n        element: \"Home\",\n    },\n    \"/projects\": {\n        name: \"projects\",\n        element: \"Projects\",\n    },\n    \"/about-me\": {\n        name: \"about\",\n        element: \"About\",\n    },\n    \"/404\": {\n        name: \"404\",\n        element: \"PageNotFound\",\n    }\n});\n\n//# sourceURL=webpack://portfolio/./src/app/consts/routes.js?\n}");
+eval("{__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n\n/**\n * @type {import(\"../../types/Routes\").Routes}\n */\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = ({\n    \"/webfolio/\": {\n        name: \"home\",\n        element: \"Home\",\n    },\n    \"/projects\": {\n        name: \"projects\",\n        element: \"Projects\",\n    },\n    \"/about-me\": {\n        name: \"about\",\n        element: \"About\",\n    },\n    \"/404\": {\n        name: \"404\",\n        element: \"PageNotFound\",\n    }\n});\n\n//# sourceURL=webpack://portfolio/./src/app/consts/routes.js?\n}");
 
 /***/ }),
 
