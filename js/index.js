@@ -763,6 +763,7 @@ var localeHandler = __webpack_require__(788);
 const rootId = "root";
 async function render() {
     const path = routes/* default */.A[window.location.pathname] ?? routes/* default */.A["/404"];
+    console.log(window.location.pathname)
 
     loadCssFile(path.name);
     startTitleAnimation(path.name);
