@@ -10,6 +10,7 @@ import "styles/styles.sass";
 const rootId = "root";
 async function render() {
     const path = routes[window.location.pathname] ?? routes["/404"];
+    console.log(window.location.pathname)
 
     loadCssFile(path.name);
     startTitleAnimation(path.name);
