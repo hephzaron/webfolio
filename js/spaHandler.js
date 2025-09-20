@@ -2,9 +2,9 @@
 
 // From https://github.com/rafgraph/spa-github-pages
 
-let pathSegmentsToKeep = 0;
+let pathSegmentsToKeep = 1;
 let l = window.location;
-
+console.log(l)
 l.replace(
     l.protocol +
         "//" +
@@ -26,5 +26,6 @@ l.replace(
             : "") +
         l.hash
 );
+console.log(l);
 /******/ })()
 ;
